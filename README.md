@@ -1,8 +1,3 @@
-# dataGrideView
-Here's an example of a `README.md` file that describes the creation of a simple form interface with fields for user details (name, ID, email, etc.) and a DataGridView in a GUI application. The buttons "Save", "Edit", and "Delete" allow user management.
-
----
-
 # User Management Application
 
 This application is designed to manage a list of users. It allows users to add, edit, and delete user details, which are displayed in a `DataGridView` format. The application includes fields for storing the user's basic information like name, ID, email, and other personal details.
