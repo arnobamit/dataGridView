@@ -61,6 +61,7 @@ A grid that lists all users with the following columns:
    - Click the `Delete` button to remove the user from the list.
 
 ## Example GUI Layout
+![User Management Form](.Image.Screenshot 2024-09-16 193006.png)
 
 ## Technologies Used
 
