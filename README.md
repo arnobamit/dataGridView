@@ -73,15 +73,3 @@ A grid that lists all users with the following columns:
 1. Clone the repository.
 2. Open the project in Visual Studio.
 3. Build and run the project.
-
-## Contributing
-
-Feel free to submit issues or feature requests. Contributions are welcome via pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This basic `README.md` explains the application, its components, and functionality. The DataGridView allows for user management through the Save, Edit, and Delete buttons.
