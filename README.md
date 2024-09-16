@@ -63,7 +63,7 @@ A grid that lists all users with the following columns:
 ## GUI Layout
 ![Screenshot 2024-09-16 193006](https://github.com/user-attachments/assets/272388bf-4c3e-4f0e-94dd-e27255fbcb76)
 
-## Database schema
+## Database Schema
 ![Screenshot 2024-09-16 212200](https://github.com/user-attachments/assets/c0e02e21-0bcc-49e3-af6d-6b06b90f13c5)
 
 ## Technologies Used
