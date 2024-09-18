@@ -66,15 +66,15 @@ A grid that lists all users with the following columns:
 ## Database Schema
 ![Screenshot 2024-09-16 212200](https://github.com/user-attachments/assets/c0e02e21-0bcc-49e3-af6d-6b06b90f13c5)
 
-Table:
-CREATE TABLE [dbo].[InfoTable] (
-    [Id]          VARCHAR (50) NOT NULL,
-    [Name]        VARCHAR (50) NOT NULL,
-    [Email]       VARCHAR (50) NOT NULL,
-    [Age]         INT          NOT NULL,
-    [Phone]       INT          NOT NULL,
-    [Blood_Group] VARCHAR (20) NOT NULL,
-    PRIMARY KEY CLUSTERED ([Id] ASC)
+Table:<br />
+CREATE TABLE [dbo].[InfoTable] (<br />
+    [Id]          VARCHAR (50) NOT NULL,<br />
+    [Name]        VARCHAR (50) NOT NULL,<br />
+    [Email]       VARCHAR (50) NOT NULL,<br />
+    [Age]         INT          NOT NULL,<br />
+    [Phone]       INT          NOT NULL,<br />
+    [Blood_Group] VARCHAR (20) NOT NULL,<br />
+    PRIMARY KEY CLUSTERED ([Id] ASC)<br />
 );
 
 ## Technologies Used
