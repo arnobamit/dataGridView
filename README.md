@@ -68,13 +68,13 @@ A grid that lists all users with the following columns:
 
 Table:<br />
 CREATE TABLE [dbo].[InfoTable] (<br />
-    [Id]          VARCHAR (50) NOT NULL,<br />
-    [Name]        VARCHAR (50) NOT NULL,<br />
-    [Email]       VARCHAR (50) NOT NULL,<br />
-    [Age]         INT          NOT NULL,<br />
-    [Phone]       INT          NOT NULL,<br />
-    [Blood_Group] VARCHAR (20) NOT NULL,<br />
-    PRIMARY KEY CLUSTERED ([Id] ASC)<br />
+    \t[Id]          VARCHAR (50) NOT NULL,<br />
+    \t[Name]        VARCHAR (50) NOT NULL,<br />
+    \t[Email]       VARCHAR (50) NOT NULL,<br />
+    \t[Age]         INT          NOT NULL,<br />
+    \t[Phone]       INT          NOT NULL,<br />
+    \t[Blood_Group] VARCHAR (20) NOT NULL,<br />
+    \tPRIMARY KEY CLUSTERED ([Id] ASC)<br />
 );
 
 ## Technologies Used
