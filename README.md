@@ -66,6 +66,17 @@ A grid that lists all users with the following columns:
 ## Database Schema
 ![Screenshot 2024-09-16 212200](https://github.com/user-attachments/assets/c0e02e21-0bcc-49e3-af6d-6b06b90f13c5)
 
+Table:
+CREATE TABLE [dbo].[InfoTable] (
+    [Id]          VARCHAR (50) NOT NULL,
+    [Name]        VARCHAR (50) NOT NULL,
+    [Email]       VARCHAR (50) NOT NULL,
+    [Age]         INT          NOT NULL,
+    [Phone]       INT          NOT NULL,
+    [Blood_Group] VARCHAR (20) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
 ## Technologies Used
 
 - .NET Framework (for Windows Forms or WPF)
